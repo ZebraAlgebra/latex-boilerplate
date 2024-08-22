@@ -1,4 +1,6 @@
-# Convex analysis notes.
+# Latex Boiler-Plate
+
+This is a boiler-plate for book class.
 
 ## Dependencies
 
